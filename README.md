@@ -4,7 +4,7 @@ Due to GitHub file size limitations, the complete software package is not hosted
 
 The latest release can be downloaded from:
 
-https://drive.google.com/file/d/1W3MLGwAIxR7kQH8bWUsIorAco6JsIsi1/view
+https://drive.google.com/file/d/1W3MLGwAIxR7kQH8bWUslorAco6Jslsi1/view
 
 For academic collaboration, technical support, or access to the source code, please contact:
 
